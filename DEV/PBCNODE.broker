@@ -1,1 +1,2 @@
-<IntegrationNodeConnectionParameters Version="10.0.0" host="10.0.10.160" listenerPort="4418" integrationNodeName="PBCNODE" userName="iibuser" password="iibuser" useSsl="false" xmlns="http://www.ibm.com/xmlns/prod/websphere/iib/8/IntegrationNodeConnectionParameters" />
+<?xml version="1.0" encoding="utf-8"?>
+<IntegrationNodeConnectionParameters Version="10.0.0" host="esbiibint.serv.dteco.com" listenerPort="4418" integrationNodeName="PBCNODE" userName="iibadmin" password="Password" useSsl="true" sslTrustStorePassword="passw0rd" sslTrustStorePath="pbcnodekeystore.jks" xmlns="http://www.ibm.com/xmlns/prod/websphere/iib/8/IntegrationNodeConnectionParameters" />
