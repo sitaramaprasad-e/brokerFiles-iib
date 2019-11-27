@@ -1,1 +1,1 @@
-<IntegrationNodeConnectionParameters Version="10.0.0" host="10.0.10.160" listenerPort="4414" integrationNodeName="TEST" userName="iibuser" useSsl="false" xmlns="http://www.ibm.com/xmlns/prod/websphere/iib/8/IntegrationNodeConnectionParameters" />
+<IntegrationNodeConnectionParameters Version="10.0.0" host="10.0.10.160" listenerPort="4414" integrationNodeName="TEST" userName="iibadmin" useSsl="false" xmlns="http://www.ibm.com/xmlns/prod/websphere/iib/8/IntegrationNodeConnectionParameters" />
