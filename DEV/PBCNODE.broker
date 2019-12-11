@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<IntegrationNodeConnectionParameters Version="10.0.0" host="10.0.10.160" listenerPort="4418" integrationNodeName="PBCNODE" useSsl="true" sslTrustStorePassword="p@ssw0rd" sslTrustStorePath="/var/lib/jenkins/workspace/dte-commonFramework-brokerssltest/brokerFiles-load/JKSFiles/pbcnodekeystore.jks" xmlns="http://www.ibm.com/xmlns/prod/websphere/iib/8/IntegrationNodeConnectionParameters" />
+<IntegrationNodeConnectionParameters Version="10.0.0" host="10.0.10.160" listenerPort="4418" integrationNodeName="PBCNODE" useSsl="true" sslTrustStorePassword="p@ssw0rd" sslTrustStorePath="JKSFiles/pbcnodekeystore.jks" xmlns="http://www.ibm.com/xmlns/prod/websphere/iib/8/IntegrationNodeConnectionParameters" />
